@@ -1,6 +1,6 @@
 import pandas as pd
 
-# df1: main table
+# df1 main table
 df1 = pd.DataFrame({
     'ID': [1, 2, 3, 4],
     'Name': ['sujal', 'vishal', 'bhumi', 'alia']
